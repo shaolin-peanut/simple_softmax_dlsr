@@ -16,7 +16,7 @@ def setup_data():
         ['Hogwarts House', 
         'Birthday', 
         'Best Hand',
-        'Index', 
+        'Index',
         'First Name',
         'Last Name'], axis=1).values
     y_t = y.values
